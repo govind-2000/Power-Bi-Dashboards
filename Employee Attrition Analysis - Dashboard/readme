@@ -1,0 +1,19 @@
+Hello, Folks
+
+I am delighted to share my Power BI Dashboard called Employee Attrition Analysis. This interactive dashboard uncovers various insights about the employee attrition rate in an organization. 
+The report helps identify key reasons for employee attrition and suggests necessary measures to reduce the turnover rate. 
+Below, I am addressing the key insights in a precise manner. Additionally, I have provided the dataset in this folder for reference.
+
+Key Insights:
+
+1. Attrition Rate: Out of 1,470 employees, 237 have left the company, resulting in an attrition rate of 16.12%.
+2. Gender Disparity: The attrition rate of male employees is higher than that of female employees.
+3. Job Satisfaction: Laboratory Technicians and Sales Executives have the lowest job satisfaction scores, contributing to their higher attrition rates.
+4. Age Group: Employees aged 26-35 have the highest attrition rate. Those who have been with the company for 0-2 years are leaving the most.
+5. Salary Impact: Employees with salaries below $10k have the highest attrition rate.
+6. Educational Background: Employees with a background in Life Sciences or Medical fields have a higher attrition rate.
+
+Additional Information:
+
+I have created new measures and calculated columns using DAX based on the objectives to uncover hidden information from the data. I also performed data cleaning and pre-processing using the Power Query Editor. 
+To ensure effective storytelling, I used simple and impactful visuals. Filters and slicers are included to allow users to focus on specific areas of interest.
