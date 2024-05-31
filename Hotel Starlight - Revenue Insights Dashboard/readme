@@ -1,0 +1,29 @@
+Hotel Starlight - Revenue Insights Dashboard
+
+Welcome to the "Hotel Starlight - Revenue Insights Dashboard" project! This repository contains a comprehensive Power BI data analysis report 
+for the fictional Hotel Starlight chain. The dashboard is designed to empower hotel managers with data-driven decision-making capabilities by
+providing them with key revenue metrics and trends.
+
+Project Overview
+The "Hotel Starlight - Revenue Insights Dashboard" aims to offer detailed insights into the hotel's performance, focusing on revenue 
+management and operational efficiency. 
+
+Key features of this project include:
+
+Data Transformation: Utilized Power Query for efficient data extraction, transformation, and loading (ETL).
+Data Modeling: Created a robust data model to support complex calculations and visualizations.
+Key Metrics: Developed 27 key metrics using DAX, including:
+RevPAR (Revenue per Available Room)
+ADR (Average Daily Rate)
+Occupancy %
+DSRN (Daily Sellable Room Nights)
+DBRN (Daily Booked Room Nights)
+DURN (Daily Utilized Room Nights)
+Key Features
+Metrics and Trends
+Week-over-Week Trends: Calculated and visualized weekly trends to help managers track performance over time.
+Weekend vs. Weekday Analysis: Built calculated columns using DAX to differentiate and analyze weekend (Friday and Saturday) versus weekday performance of key metrics.
+Interactive Visualizations
+Tooltips: Enhanced data points with additional contextual information.
+Buttons: Incorporated buttons for easy navigation and interactivity.
+Slicers: Added slicers to allow users to filter data based on various dimensions, enhancing the user experience and engagement.
