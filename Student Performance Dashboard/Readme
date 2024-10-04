@@ -1,0 +1,7 @@
+ Student Performance Analysis using Power Bi - An Interactive Dashboard
+
+Key Points
+ 1) Sourced the students data from a Microsoft SQL Server database.
+ 2) Performed data cleaning and transformation in Power Query.
+ 3) Developed an interactive dashboard in Power BI using DAX measures, bookmarks, and calculation groups to visualize key performance metrics.
+ 4) Created Interactive Filter Pane to allow user to slice and dice data.
